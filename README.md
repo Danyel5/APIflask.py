@@ -1,3 +1,3 @@
 # API Simples com Flask
 
-### Uma API que adiciona jogos em uma lista
+### Uma API bem simples que adiciona jogos em uma lista.
